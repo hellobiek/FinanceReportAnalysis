@@ -2,113 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb7c239f-6515-45db-ac50-de6691d870b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/新浪财经数据.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/HTML/comment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/HTML/comment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/HTML/rate_index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/HTML/rate_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/HTML/zfb_index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/HTML/zfb_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/HTML/财报分析.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/cb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/html_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/img/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/img/start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/indexData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/null" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/rate_index_副本.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/regionRp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据处理入库.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新浪财经数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新浪财经数据_mg_n12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新浪财经数据_mg_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/新浪财经数据_mg_财务摘要.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/财务摘要数据库处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/财报分析/原始报表/原始报表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/财报分析/原始报表/重要财务指标.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/财报分析/原始财报处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/财报分析/杜邦分析/impt_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/财报分析/杜邦分析/原始报表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/财报分析/杜邦分析/杜邦分析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/财报分析/杜邦分析/重要财务指标.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/新浪财经数据.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/新浪财经数据.iml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyqt/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10241">
-              <caret line="540" column="17" selection-start-line="540" selection-start-column="4" selection-end-line="540" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyqt/html_maker.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3230">
-              <caret line="173" column="26" selection-start-line="173" selection-start-column="26" selection-end-line="173" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pyqt/start.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="151" column="22" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
-              <folding>
-                <element signature="e#216#258#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyqt/indexData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4636">
-              <caret line="245" column="27" selection-start-line="245" selection-start-column="21" selection-end-line="245" selection-end-column="27" />
-              <folding>
-                <element signature="e#54#88#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pyqt/HTML/rate_index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -147,6 +48,7 @@
     <option name="width" value="1134" />
     <option name="height" value="1212" />
   </component>
+  <component name="ProjectId" id="2D7tnLwOSE6rlelmyin0FAq1ulh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -167,6 +69,10 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -183,18 +89,6 @@
       <recent name="D:\python文件库\项目\Financal analysis\新浪财经数据\pyqt\img" />
       <recent name="D:\python文件库\项目\Financal analysis\新浪财经数据\pyqt" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.start">
     <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -317,6 +211,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -368,15 +263,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$html_maker.coverage" NAME="html_maker Coverage Results" MODIFIED="1566135818927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt" />
-    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main Coverage Results" MODIFIED="1566135823526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt" />
-    <SUITE FILE_PATH="coverage/$demo.coverage" NAME="demo Coverage Results" MODIFIED="1566133380985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$indexData.coverage" NAME="indexData Coverage Results" MODIFIED="1566133511146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="重要财务指标 Coverage Results" MODIFIED="1565874558760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/财报分析/原始报表" />
-    <SUITE FILE_PATH="coverage/$regionRp.coverage" NAME="regionRp Coverage Results" MODIFIED="1565947325868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt" />
-    <SUITE FILE_PATH="coverage/$start.coverage" NAME="start Coverage Results" MODIFIED="1566215366751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1133632428/PyQt5/QtWidgets/QTabWidget.py">

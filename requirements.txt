@@ -1,0 +1,4 @@
+numpy
+pymongo
+PyQtWebEngine
+beautifulsoup4
